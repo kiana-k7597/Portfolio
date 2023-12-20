@@ -1,12 +1,14 @@
-import './App.css';
+import "./App.css";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>
-          Website under construction...
-        </p>
+        <div className="App-body">
+          <div className="background">
+            <p>Website Under Construction...</p>
+          </div>
+        </div>
       </header>
     </div>
   );
