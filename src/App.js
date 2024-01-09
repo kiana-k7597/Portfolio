@@ -1,4 +1,4 @@
-import { Header, HeaderText } from "./styling/Header.styles.tsx";
+import { Header, Title } from "./styling/Header.styles.tsx";
 import { Body, BodyText } from "./styling/Body.styles.tsx";
 import { MainPage } from "./styling/MainPage.styles.tsx";
 function App() {
@@ -6,8 +6,8 @@ function App() {
     <>
       <MainPage>
         <Header>
-          <HeaderText>Kiana Kabiri</HeaderText>
-          <HeaderText>Software Engineer</HeaderText>
+          <Title>Kiana Kabiri</Title>
+          <Title>Software Engineer</Title>
         </Header>
         <Body>
           <BodyText>THG - 2020-present</BodyText>

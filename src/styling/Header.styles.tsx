@@ -8,8 +8,9 @@ flex-direction: column;
 justify-content: center; 
 `
 
-export const HeaderText = styled.h1`
+export const Title = styled.h1`
 display: flex;
-justify-content: center;
+justify-content: flex-start;
+padding-left: 30px;
 font-size: calc(15px + 2vmin);
 `
