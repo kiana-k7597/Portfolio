@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-export const Header =  styled.div`
+export const Header =  styled.header`
 font-family: Verdana;
 font-size: calc(20px + 2vmin);
 display: flex;
