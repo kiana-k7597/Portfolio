@@ -6,10 +6,10 @@ font-size: calc(20px + 2vmin);
 display: flex;
 flex-direction: column;
 justify-content: center; 
-padding-top: 2rem;
 `
 
-export const HeaderText = styled.div`
+export const HeaderText = styled.h1`
 display: flex;
 justify-content: center;
+font-size: calc(15px + 2vmin);
 `
