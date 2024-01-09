@@ -10,7 +10,7 @@ function App() {
           <Subtext>Software Engineer</Subtext>
         </Header>
         <Body>
-          <BodyText>THG - 2020-present</BodyText>
+          <BodyText>THG - 2020 - present</BodyText>
           <BodyText>University of Manchester - BEng(Hons) - 2017-2020</BodyText>
         </Body>
       </MainPage>
